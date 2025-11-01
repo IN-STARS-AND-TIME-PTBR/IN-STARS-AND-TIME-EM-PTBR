@@ -18,8 +18,8 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 
 - **(Capítulo 1) 100% SENDO REVISADO**
 - **(Capítulo 2) 100% SENDO REVISADO**
-- **(Capítulo 3) 30%**
-- **(Capítulo 4) 0%**
+- **(Capítulo 3) 100% SENDO REVISADO**
+- **(Capítulo 4) 10%**
 - **(Capítulo 5) 0%**
 - **(Capítulo 6) 0%**
 
@@ -32,10 +32,11 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 >
 > ### ✍️ Tradutores
 > **Tales Mariano**  
->  **The Butler**
+> **Ellie**
 > 
 > ### 🔍 Revisão
 > **Kirb0**
+> **Starmiu**
 > 
 > ### 🛡️ Administração
 > **Tapioka**  
