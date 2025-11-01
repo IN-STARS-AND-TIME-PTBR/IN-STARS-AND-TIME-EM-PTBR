@@ -7,14 +7,14 @@
 ![Game](https://img.shields.io/badge/jogo-In%20Stars%20and%20Time-9cf)
 
 
-## 📖 Sobre o Projeto
+##  Sobre o Projeto
 
 Este repositório tem como objetivo disponibilizar a **tradução completa do jogo _In Stars and Time_ para o português do Brasil (PT-BR)**.  
 A ideia é tornar a experiência mais acessível a todos os jogadores brasileiros, mantendo a fidelidade do texto original, mas com fluidez e naturalidade em nossa língua.
 
 ---
 
-## 📌 Progresso da Tradução
+##  Progresso da Tradução
 
 - **(Capítulo 1) 100% SENDO REVISADO**
 - **(Capítulo 2) 100% SENDO REVISADO**
@@ -23,26 +23,29 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 - **(Capítulo 5) 0%**
 - **(Capítulo 6) 0%**
 
- 🔔 O progresso será atualizado conforme novas etapas forem concluídas.
+  O progresso será atualizado conforme novas etapas forem concluídas.
 
-## 🎉 Créditos
+##  Créditos
 
-> ### 👑 Dono & Tradutor Principal
+> ### Dono & Tradutor Principal
 > **Fely_in**
 >
-> ### ✍️ Tradutores
+> ### Tradutores
 > **Tales Mariano**  
 > **Ellie**
-> 
-> ### 🔍 Revisão
+> **The butler** 
+>
+> ### Revisão
 > **Kirb0**
 > **Starmiu**
 > 
-> ### 🛡️ Administração
+> ### Administração
 > **Tapioka**  
 > **best 🎭best Inu, the Silly⚥✨**
-
-
+>
+### Agradecimentos especiais
+> **Dip_re**
+>
 ## 🚀 Como Contribuir
 
 **Entre no nosso servidor do discord e divulgue o projeto se preferir no nosso server tem um forms para se canditatar a tradutor**
