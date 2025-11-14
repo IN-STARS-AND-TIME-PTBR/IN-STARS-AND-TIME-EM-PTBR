@@ -31,6 +31,7 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 > **Fely_in**
 >
 > ### Tradutores
+> **lowneta**  
 > **Tales Mariano**  
 > **Ellie**
 > **The butler** 
