@@ -16,10 +16,10 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 
 ##  Progresso da Tradução
 
-- **(Capítulo 1) 100% SENDO REVISADO**
-- **(Capítulo 2) 100% SENDO REVISADO**
-- **(Capítulo 3) 100% SENDO REVISADO**
-- **(Capítulo 4) 10%**
+- **(Capítulo 1) 10%**
+- **(Capítulo 2) 0%**
+- **(Capítulo 3) 0%**
+- **(Capítulo 4) 0%**
 - **(Capítulo 5) 0%**
 - **(Capítulo 6) 0%**
 
@@ -49,4 +49,4 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 >
 ## 🚀 Como Contribuir
 
-**Entre no nosso servidor do discord e divulgue o projeto se preferir no nosso server tem um forms para se canditatar a tradutor**
+**Entre no nosso servidor do discord e divulgue o projeto se preferir**
