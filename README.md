@@ -16,7 +16,7 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 
 ##  Progresso da Tradução
 
-- **(Capítulo 1) 10%**
+- **(Capítulo 1) 20%**
 - **(Capítulo 2) 0%**
 - **(Capítulo 3) 0%**
 - **(Capítulo 4) 0%**
@@ -27,7 +27,7 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 
 ##  Créditos
 
-> ### Dono & Tradutor Principal
+> ### Dono
 > **Fely_in**
 >
 > ### Tradutores
@@ -43,10 +43,15 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 > ### Administração
 > **Tapioka**  
 > **best 🎭best Inu, the Silly⚥✨**
+> **nervouscharlotte**
 >
 ### Agradecimentos especiais
 > **Dip_re**
->
+
+### Observações
+> gostariamos de dizer que o projeto provalvelmente terar alguns atrasos o possiveis adiamentos por causa da mudança de engine repentina escolhida pelos tradutores
+> tudo isso e pois queremos o melhor da tradução para vcs esperamos que vcs comprendam a mudança
+
 ## 🚀 Como Contribuir
 
 **Entre no nosso servidor do discord e divulgue o projeto se preferir**
