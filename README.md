@@ -16,12 +16,7 @@ A ideia é tornar a experiência mais acessível a todos os jogadores brasileiro
 
 ##  Progresso da Tradução
 
-- **(Capítulo 1) 20%**
-- **(Capítulo 2) 0%**
-- **(Capítulo 3) 0%**
-- **(Capítulo 4) 0%**
-- **(Capítulo 5) 0%**
-- **(Capítulo 6) 0%**
+20%
 
   O progresso será atualizado conforme novas etapas forem concluídas.
 
