@@ -38,7 +38,9 @@ Nosso objetivo é oferecer uma tradução fiel ao texto original, preservando a 
 > ### Tradutores
 > **Starmiu**
 > 
-> **RandomPerson**  
+> **RandomPerson** 
+>
+> **Gosthy** 
 > 
 > ### Revisão
 > **Starmiu**
