@@ -18,7 +18,7 @@ Nosso objetivo é oferecer uma tradução fiel ao texto original, preservando a 
 
 > 100% CAP 1
 > 
-> 20% CAP 2
+> 38% CAP 2
 > 
 > 30% CAP 3
 > 
