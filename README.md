@@ -49,6 +49,8 @@ Este repositório tem como objetivo disponibilizar a **tradução completa do jo
 > **teriermon404**
 > 
 > **May mega**
+>
+> **Nicoッ**
 > 
 > ### Administração
 > **Tapioka**
