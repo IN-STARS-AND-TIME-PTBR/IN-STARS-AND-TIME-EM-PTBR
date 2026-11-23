@@ -1,6 +1,6 @@
 <div align="center">
   <img width="260" height="260" src="https://i.imgur.com/BwMvopG.png">
-  <h1>In Stars and Time — Tradução PT-BR (Não Oficial)<h1>
+  <h1>In Stars and Time Tradução PT-BR (Não Oficial)<h1>
 
 ![Status](https://img.shields.io/badge/status-em%20andamento-yellow)
 ![Contribuições](https://img.shields.io/badge/contribuições-bem--vindas-green)
@@ -10,7 +10,7 @@
 ##  Sobre o Projeto
 
 Este repositório tem como objetivo disponibilizar a **tradução completa do jogo _In Stars and Time_ para o português Brasileiro (PT-BR)**.  
-Nosso objetivo é oferecer uma tradução fiel ao texto original, preservando a personalidade dos personagens, o humor e o impacto emocional da obra, sempre buscando a melhor qualidade possível.
+**Nosso objetivo é oferecer uma tradução fiel ao texto original, preservando a personalidade, humor e o impacto emocional da obra original, sempre buscando a melhor qualidade possível**.
 
 ---
 
@@ -18,7 +18,7 @@ Nosso objetivo é oferecer uma tradução fiel ao texto original, preservando a 
 
 > 100% CAP 1
 > 
-> 38% CAP 2
+> 76% CAP 2
 > 
 > 30% CAP 3
 > 
@@ -33,31 +33,42 @@ Nosso objetivo é oferecer uma tradução fiel ao texto original, preservando a 
 ##  Créditos
 
 > ### Dono/Criador
-> **Fely_in**
+> **Felyzito**
 >
-> ### Tradutores
+> ### Membros da Equipe
 > **Starmiu**
 > 
 > **RandomPerson** 
 >
 > **Gosthy** 
 > 
-> ### Revisão
-> **Starmiu**
+> **Hyde**
 > 
-> **RandomPerson** 
+> **bodoes**
+>
+> **teriermon404**
+> 
+> **May mega**
 > 
 > ### Administração
 > **Tapioka**
 > 
 > **nervouscharlotte**
 > 
+> **Chuvisco**
+> 
+> **Victor bahia 000**
+> 
 > ### Agradecimentos especiais
+> 
 > **Dip_re**
 > 
 > **Tales**
 > 
 > **The Butler**
+>
+> **A luna**
+>
 
 ### Observações
 Este projeto ainda está em desenvolvimento e pode sofrer atrasos durante sua produção.
